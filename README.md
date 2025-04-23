@@ -41,10 +41,10 @@ Analyzes functional imaging results.
 ### analysis_tool.py\
 Contains utility functions for analyzing spatial distribution data.
 ### shuffling_20241117.ipynb\
-Jupyter notebook for functional predictions and connection preference analysis.Access information
-Other publicly accessible locations of the data:
+Jupyter notebook for functional predictions and connection preference analysis.
 
+## Access information
+Other publicly accessible locations of the data:
 Brain Research Center, National Tsing Hua University, Taiwan
 Data was derived from the following sources:
-
 Brain Research Center, National Tsing Hua University, Taiwan
